@@ -1,4 +1,4 @@
-Hospital Management System provide us to digital and modern eHospital service for patient. It has admin and user module.
+Hospital Management System provide us to digital and modern eHospital service for patient.It also provide the pathology and pharmacy facilitise for patient. It has admin, patient, pathology and pharmacy module.
 Technology use:
 1)Java
 2)Spring MVC
